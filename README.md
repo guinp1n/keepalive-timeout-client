@@ -21,7 +21,7 @@ OpenJDK 64-Bit Server VM Temurin-11.0.16+8 (build 11.0.16+8, mixed mode)
 
 ### Build from code
 ```
-cd prevent-ping
+cd keepalive-timeout-client
 ```
 
 ```shell
