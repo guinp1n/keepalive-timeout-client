@@ -30,7 +30,7 @@ tasks {
         mergeServiceFiles()
         manifest {
             attributes(
-                "Main-Class" to "com.hivemq.client.mqtt.examples.TlsDemo"
+                "Main-Class" to "com.hivemq.example.keep_alive_timeout.KeepAliveTimeoutMaker"
             )
         }
     }
